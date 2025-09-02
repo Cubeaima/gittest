@@ -1,0 +1,13 @@
+浏览文件内容（点击 README.md、notes.txt…）
+
+查看提交历史（页面上方的 Commits）
+
+查看某文件的历史（进入文件 → History）
+
+在线编辑文件（进入文件 → 右上角铅笔图标编辑 → 提交）
+
+新建文件（Add file → Create new file）
+
+上传文件（Add file → Upload files）
+
+第二次提交：补充一行练习用
